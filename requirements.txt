@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+torch
+torch-geometric==2.5.0
+matplotlib
+seaborn
+networkx
+shap
+plotly
+jupyterlab
+ipykernel
